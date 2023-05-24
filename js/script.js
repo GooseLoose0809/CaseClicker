@@ -34,7 +34,7 @@ var acceptedsound = true;
 var inventory = {"knife58"};
 var jackpotInventory = {};
 
-var inventoryMax = 50;
+var inventoryMax = 200;
 var inventoryCurrent = 0;
 
 var keyPrice = 0.01;
